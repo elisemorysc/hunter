@@ -11,6 +11,7 @@ project(download-filament)
 
 # DOCUMENTATION_START {
 hunter_add_package(filament)
+find_package(Threads)
 find_package(filament CONFIG REQUIRED)
 
 add_executable(filament_test main.cpp)
