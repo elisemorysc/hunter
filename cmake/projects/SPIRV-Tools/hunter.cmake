@@ -21,6 +21,17 @@ hunter_add_version(
     c6ea3b64476403c613e138beb12b6c5f96c0c8a6
 )
 
+hunter_add_version(
+    PACKAGE_NAME
+    SPIRV-Tools
+    VERSION
+    2020.1-p0
+    URL 
+    https://github.com/cpp-pm/SPIRV-Tools/archive/v2020.1-p0.tar.gz
+    SHA1 
+    cfdbc6e27adfe60d0ce72440492f761d9361df18
+)
+
 hunter_cmake_args(
     SPIRV-Tools
     CMAKE_ARGS
