@@ -4,5 +4,5 @@ hunter_config(SPIRV-Headers
 
 hunter_config(SPIRV-Tools 
               URL https://github.com/elisemorysc/SPIRV-Tools/archive/hunter-v2020.1-new.tar.gz
-              SHA1 0b8223f6285d16131d263882f93b99a8795036fe)
+              SHA1 aa517f2e43755777be3e5b89c632f3c8139ba5ac)
 
