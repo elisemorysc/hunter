@@ -29,7 +29,7 @@ hunter_add_version(
     URL 
     https://github.com/cpp-pm/SPIRV-Tools/archive/v2020.1-p0.tar.gz
     SHA1 
-    cfdbc6e27adfe60d0ce72440492f761d9361df18
+    695e9abf892fe939fbe61398a06b6f177cd43e77
 )
 
 hunter_cmake_args(
