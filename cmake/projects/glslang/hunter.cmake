@@ -35,7 +35,7 @@ hunter_add_version(
     PACKAGE_NAME
     glslang
     VERSION
-    8.13.3743-9eef54b2
+    8.13.3743-9eef54b2-p0
     URL 
     "https://github.com/cpp-pm/glslang/archive/v8.13.3743-9eef54b2-p0.tar.gz"
     SHA1 
