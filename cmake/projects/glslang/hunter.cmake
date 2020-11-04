@@ -37,9 +37,9 @@ hunter_add_version(
     VERSION
     8.13.3743-9eef54b2
     URL 
-    "https://github.com/elisemorysc/glslang/archive/9eef54b2-p0.tar.gz"
+    "https://github.com/cpp-pm/glslang/archive/v8.13.3743-9eef54b2-p0.tar.gz"
     SHA1 
-    fa4b65c16bfba9e70f12ba78313cebb00dbaba66
+    fb8593f4671116d318909394d2fba3774f027ca0
 )
 
 if(IOS OR ANDROID)
