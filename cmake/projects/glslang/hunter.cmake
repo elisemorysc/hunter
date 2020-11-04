@@ -31,6 +31,17 @@ hunter_add_version(
     44d6157e5bf6005f1f611bcea323488e6268d9c9
 )
 
+hunter_add_version(
+    PACKAGE_NAME
+    glslang
+    VERSION
+    8.13.3743-9eef54b2
+    URL 
+    "https://github.com/elisemorysc/glslang/archive/9eef54b2-p0.tar.gz"
+    SHA1 
+    662fa2b5a63ab922917a13c65c217698031093c6
+)
+
 if(IOS OR ANDROID)
 hunter_cmake_args(
     glslang
