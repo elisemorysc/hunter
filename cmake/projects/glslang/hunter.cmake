@@ -39,7 +39,7 @@ hunter_add_version(
     URL 
     "https://github.com/elisemorysc/glslang/archive/9eef54b2-p0.tar.gz"
     SHA1 
-    662fa2b5a63ab922917a13c65c217698031093c6
+    fa4b65c16bfba9e70f12ba78313cebb00dbaba66
 )
 
 if(IOS OR ANDROID)
