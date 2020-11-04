@@ -1,0 +1,2102 @@
+[
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418203", 
+        "name": "glslang analyze-cxx17 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418203", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418203", 
+        "completed_at": "2020-11-04T18:16:26Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MjAz", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:33.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:33.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:26.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "failure"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:16:26.000Z", 
+                "started_at": "2020-11-04T18:16:26.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:16:26.000Z", 
+                "started_at": "2020-11-04T18:16:26.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:16:26.000Z", 
+                "started_at": "2020-11-04T18:16:26.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418203, 
+        "conclusion": "failure"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418187", 
+        "name": "glslang android-ndk-r17-api-24-arm64-v8a-clang-libcxx14 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418187", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418187", 
+        "completed_at": "2020-11-04T18:20:04Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MTg3", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:32.000Z", 
+                "started_at": "2020-11-04T18:15:30.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:37.000Z", 
+                "started_at": "2020-11-04T18:15:32.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:37.000Z", 
+                "started_at": "2020-11-04T18:15:37.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:37.000Z", 
+                "started_at": "2020-11-04T18:15:37.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:37.000Z", 
+                "started_at": "2020-11-04T18:15:37.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:37.000Z", 
+                "started_at": "2020-11-04T18:15:37.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:37.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:20:04.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:20:04.000Z", 
+                "started_at": "2020-11-04T18:20:04.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:20:04.000Z", 
+                "started_at": "2020-11-04T18:20:04.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:20:04.000Z", 
+                "started_at": "2020-11-04T18:20:04.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:30Z", 
+        "id": 1354418187, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418079", 
+        "name": "glslang clang-cxx17 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418079", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418079", 
+        "completed_at": "2020-11-04T18:18:11Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MDc5", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:34.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:34.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:18:11.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:18:11.000Z", 
+                "started_at": "2020-11-04T18:18:11.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:18:11.000Z", 
+                "started_at": "2020-11-04T18:18:11.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:18:11.000Z", 
+                "started_at": "2020-11-04T18:18:11.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418079, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418102", 
+        "name": "glslang gcc-7-cxx17 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418102", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418102", 
+        "completed_at": "2020-11-04T18:19:01Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MTAy", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:31.000Z", 
+                "started_at": "2020-11-04T18:15:29.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:36.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:36.000Z", 
+                "started_at": "2020-11-04T18:15:36.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:36.000Z", 
+                "started_at": "2020-11-04T18:15:36.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:36.000Z", 
+                "started_at": "2020-11-04T18:15:36.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:36.000Z", 
+                "started_at": "2020-11-04T18:15:36.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:36.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:19:00.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:19:00.000Z", 
+                "started_at": "2020-11-04T18:19:00.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:19:01.000Z", 
+                "started_at": "2020-11-04T18:19:00.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:19:01.000Z", 
+                "started_at": "2020-11-04T18:19:01.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:29Z", 
+        "id": 1354418102, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418123", 
+        "name": "glslang gcc-8-cxx17-fpic ubuntu-18.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418123", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418123", 
+        "completed_at": "2020-11-04T18:19:15Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MTIz", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:33.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:47.000Z", 
+                "started_at": "2020-11-04T18:15:33.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:47.000Z", 
+                "started_at": "2020-11-04T18:15:47.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:47.000Z", 
+                "started_at": "2020-11-04T18:15:47.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:47.000Z", 
+                "started_at": "2020-11-04T18:15:47.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:47.000Z", 
+                "started_at": "2020-11-04T18:15:47.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:48.000Z", 
+                "started_at": "2020-11-04T18:15:47.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:19:15.000Z", 
+                "started_at": "2020-11-04T18:15:48.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:19:15.000Z", 
+                "started_at": "2020-11-04T18:19:15.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:19:15.000Z", 
+                "started_at": "2020-11-04T18:19:15.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:19:15.000Z", 
+                "started_at": "2020-11-04T18:19:15.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418123, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418173", 
+        "name": "glslang gcc-9-cxx17-fpic ubuntu-20.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418173", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418173", 
+        "completed_at": "2020-11-04T18:18:39Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MTcz", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:33.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:33.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:52.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:18:39.000Z", 
+                "started_at": "2020-11-04T18:15:52.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:18:39.000Z", 
+                "started_at": "2020-11-04T18:18:39.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:18:39.000Z", 
+                "started_at": "2020-11-04T18:18:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:18:39.000Z", 
+                "started_at": "2020-11-04T18:18:39.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418173, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418336", 
+        "name": "glslang ios-nocodesign-13-2-dep-9-3 macos-10.15", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418336", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418336", 
+        "completed_at": "2020-11-04T18:33:07Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MzM2", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:16:08.000Z", 
+                "started_at": "2020-11-04T18:15:44.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:17:25.000Z", 
+                "started_at": "2020-11-04T18:16:08.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:17:25.000Z", 
+                "started_at": "2020-11-04T18:17:25.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:17:26.000Z", 
+                "started_at": "2020-11-04T18:17:25.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:17:26.000Z", 
+                "started_at": "2020-11-04T18:17:26.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:17:26.000Z", 
+                "started_at": "2020-11-04T18:17:26.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:17:36.000Z", 
+                "started_at": "2020-11-04T18:17:26.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:33:06.000Z", 
+                "started_at": "2020-11-04T18:17:36.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:33:06.000Z", 
+                "started_at": "2020-11-04T18:33:06.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:33:07.000Z", 
+                "started_at": "2020-11-04T18:33:06.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:33:07.000Z", 
+                "started_at": "2020-11-04T18:33:07.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:44Z", 
+        "id": 1354418336, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418466", 
+        "name": "glslang mingw-cxx17 windows-2016", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418466", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418466", 
+        "completed_at": "2020-11-04T18:17:33Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4NDY2", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:34.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:34.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:51.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:04.000Z", 
+                "started_at": "2020-11-04T18:15:51.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:04.000Z", 
+                "started_at": "2020-11-04T18:16:04.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:13.000Z", 
+                "started_at": "2020-11-04T18:16:04.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:13.000Z", 
+                "started_at": "2020-11-04T18:16:13.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:17:30.000Z", 
+                "started_at": "2020-11-04T18:16:13.000Z", 
+                "conclusion": "failure"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:17:33.000Z", 
+                "started_at": "2020-11-04T18:17:30.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:17:33.000Z", 
+                "started_at": "2020-11-04T18:17:33.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418466, 
+        "conclusion": "failure"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418487", 
+        "name": "glslang msys-cxx17 windows-2016", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418487", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418487", 
+        "completed_at": "2020-11-04T18:22:42Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4NDg3", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:35.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:53.000Z", 
+                "started_at": "2020-11-04T18:15:35.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:53.000Z", 
+                "started_at": "2020-11-04T18:15:53.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:53.000Z", 
+                "started_at": "2020-11-04T18:15:53.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:07.000Z", 
+                "started_at": "2020-11-04T18:15:53.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:07.000Z", 
+                "started_at": "2020-11-04T18:16:07.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:15.000Z", 
+                "started_at": "2020-11-04T18:16:07.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:15.000Z", 
+                "started_at": "2020-11-04T18:16:15.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:22:38.000Z", 
+                "started_at": "2020-11-04T18:16:15.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:22:42.000Z", 
+                "started_at": "2020-11-04T18:22:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:22:42.000Z", 
+                "started_at": "2020-11-04T18:22:42.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418487, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418362", 
+        "name": "glslang ninja-vs-15-2017-win64-cxx17 windows-2016", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418362", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418362", 
+        "completed_at": "2020-11-04T18:26:57Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MzYy", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:35.000Z", 
+                "started_at": "2020-11-04T18:15:32.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:35.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:09.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:10.000Z", 
+                "started_at": "2020-11-04T18:16:09.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:20.000Z", 
+                "started_at": "2020-11-04T18:16:10.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:20.000Z", 
+                "started_at": "2020-11-04T18:16:20.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:26:54.000Z", 
+                "started_at": "2020-11-04T18:16:20.000Z", 
+                "conclusion": "failure"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:26:57.000Z", 
+                "started_at": "2020-11-04T18:26:54.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:26:57.000Z", 
+                "started_at": "2020-11-04T18:26:57.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:32Z", 
+        "id": 1354418362, 
+        "conclusion": "failure"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418382", 
+        "name": "glslang nmake-vs-15-2017-win64-cxx17 windows-2016", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418382", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418382", 
+        "completed_at": "2020-11-04T18:32:19Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4Mzgy", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:35.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:53.000Z", 
+                "started_at": "2020-11-04T18:15:35.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:53.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:09.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:09.000Z", 
+                "started_at": "2020-11-04T18:16:09.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:19.000Z", 
+                "started_at": "2020-11-04T18:16:09.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:19.000Z", 
+                "started_at": "2020-11-04T18:16:19.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:32:16.000Z", 
+                "started_at": "2020-11-04T18:16:19.000Z", 
+                "conclusion": "failure"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:32:19.000Z", 
+                "started_at": "2020-11-04T18:32:16.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:32:19.000Z", 
+                "started_at": "2020-11-04T18:32:19.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418382, 
+        "conclusion": "failure"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418291", 
+        "name": "glslang osx-10-13-cxx14 macos-10.15", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418291", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418291", 
+        "completed_at": "2020-11-04T18:19:46Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4Mjkx", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:40.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:45.000Z", 
+                "started_at": "2020-11-04T18:15:40.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:45.000Z", 
+                "started_at": "2020-11-04T18:15:45.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:45.000Z", 
+                "started_at": "2020-11-04T18:15:45.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:45.000Z", 
+                "started_at": "2020-11-04T18:15:45.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:45.000Z", 
+                "started_at": "2020-11-04T18:15:45.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:48.000Z", 
+                "started_at": "2020-11-04T18:15:45.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:19:45.000Z", 
+                "started_at": "2020-11-04T18:15:48.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:19:45.000Z", 
+                "started_at": "2020-11-04T18:19:45.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:19:46.000Z", 
+                "started_at": "2020-11-04T18:19:45.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:19:46.000Z", 
+                "started_at": "2020-11-04T18:19:46.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:39Z", 
+        "id": 1354418291, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418280", 
+        "name": "glslang osx-10-13-make-cxx14 macos-10.15", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418280", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418280", 
+        "completed_at": "2020-11-04T18:20:44Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4Mjgw", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:16:07.000Z", 
+                "started_at": "2020-11-04T18:15:46.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:17:25.000Z", 
+                "started_at": "2020-11-04T18:16:07.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:17:25.000Z", 
+                "started_at": "2020-11-04T18:17:25.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:17:26.000Z", 
+                "started_at": "2020-11-04T18:17:25.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:17:26.000Z", 
+                "started_at": "2020-11-04T18:17:26.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:17:26.000Z", 
+                "started_at": "2020-11-04T18:17:26.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:17:43.000Z", 
+                "started_at": "2020-11-04T18:17:26.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:20:44.000Z", 
+                "started_at": "2020-11-04T18:17:43.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:20:44.000Z", 
+                "started_at": "2020-11-04T18:20:44.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:20:44.000Z", 
+                "started_at": "2020-11-04T18:20:44.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:20:44.000Z", 
+                "started_at": "2020-11-04T18:20:44.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:46Z", 
+        "id": 1354418280, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418319", 
+        "name": "glslang osx-10-15-dep-10-10-cxx17 macos-10.15", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418319", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418319", 
+        "completed_at": "2020-11-04T18:22:41Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MzE5", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:16:04.000Z", 
+                "started_at": "2020-11-04T18:15:46.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:17:00.000Z", 
+                "started_at": "2020-11-04T18:16:04.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:17:00.000Z", 
+                "started_at": "2020-11-04T18:17:00.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:17:00.000Z", 
+                "started_at": "2020-11-04T18:17:00.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:17:00.000Z", 
+                "started_at": "2020-11-04T18:17:00.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:17:01.000Z", 
+                "started_at": "2020-11-04T18:17:00.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:17:33.000Z", 
+                "started_at": "2020-11-04T18:17:01.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:22:40.000Z", 
+                "started_at": "2020-11-04T18:17:33.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:22:40.000Z", 
+                "started_at": "2020-11-04T18:22:40.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:22:41.000Z", 
+                "started_at": "2020-11-04T18:22:40.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:22:41.000Z", 
+                "started_at": "2020-11-04T18:22:41.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:46Z", 
+        "id": 1354418319, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418220", 
+        "name": "glslang sanitize-address-cxx17 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418220", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418220", 
+        "completed_at": "2020-11-04T18:19:24Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MjIw", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:34.000Z", 
+                "started_at": "2020-11-04T18:15:30.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:38.000Z", 
+                "started_at": "2020-11-04T18:15:34.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:19:23.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:19:23.000Z", 
+                "started_at": "2020-11-04T18:19:23.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:19:23.000Z", 
+                "started_at": "2020-11-04T18:19:23.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:19:24.000Z", 
+                "started_at": "2020-11-04T18:19:23.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:30Z", 
+        "id": 1354418220, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418241", 
+        "name": "glslang sanitize-leak-cxx17 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418241", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418241", 
+        "completed_at": "2020-11-04T18:18:58Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MjQx", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:34.000Z", 
+                "started_at": "2020-11-04T18:15:32.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:34.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:15:39.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:15:40.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:18:58.000Z", 
+                "started_at": "2020-11-04T18:15:40.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:18:58.000Z", 
+                "started_at": "2020-11-04T18:18:58.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:18:58.000Z", 
+                "started_at": "2020-11-04T18:18:58.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:18:58.000Z", 
+                "started_at": "2020-11-04T18:18:58.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:32Z", 
+        "id": 1354418241, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418262", 
+        "name": "glslang sanitize-thread-cxx17 ubuntu-16.04", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418262", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418262", 
+        "completed_at": "2020-11-04T18:20:11Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4MjYy", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:16:38.000Z", 
+                "started_at": "2020-11-04T18:16:36.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:16:43.000Z", 
+                "started_at": "2020-11-04T18:16:38.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:16:43.000Z", 
+                "started_at": "2020-11-04T18:16:43.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:16:43.000Z", 
+                "started_at": "2020-11-04T18:16:43.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:43.000Z", 
+                "started_at": "2020-11-04T18:16:43.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:43.000Z", 
+                "started_at": "2020-11-04T18:16:43.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:46.000Z", 
+                "started_at": "2020-11-04T18:16:43.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:20:10.000Z", 
+                "started_at": "2020-11-04T18:16:46.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:20:10.000Z", 
+                "started_at": "2020-11-04T18:20:10.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:20:11.000Z", 
+                "started_at": "2020-11-04T18:20:10.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:20:11.000Z", 
+                "started_at": "2020-11-04T18:20:11.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:16:36Z", 
+        "id": 1354418262, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418444", 
+        "name": "glslang vs-14-2015-sdk-8-1 windows-2016", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418444", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418444", 
+        "completed_at": "2020-11-04T18:24:23Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4NDQ0", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:35.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:55.000Z", 
+                "started_at": "2020-11-04T18:15:35.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:55.000Z", 
+                "started_at": "2020-11-04T18:15:55.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:55.000Z", 
+                "started_at": "2020-11-04T18:15:55.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:10.000Z", 
+                "started_at": "2020-11-04T18:15:55.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:11.000Z", 
+                "started_at": "2020-11-04T18:16:10.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:22.000Z", 
+                "started_at": "2020-11-04T18:16:11.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:22.000Z", 
+                "started_at": "2020-11-04T18:16:22.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:24:19.000Z", 
+                "started_at": "2020-11-04T18:16:22.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:24:23.000Z", 
+                "started_at": "2020-11-04T18:24:19.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:24:23.000Z", 
+                "started_at": "2020-11-04T18:24:23.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418444, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418420", 
+        "name": "glslang vs-15-2017-win64-cxx17 windows-2016", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418420", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418420", 
+        "completed_at": "2020-11-04T18:25:07Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4NDIw", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:34.000Z", 
+                "started_at": "2020-11-04T18:15:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:15:53.000Z", 
+                "started_at": "2020-11-04T18:15:34.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:53.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:15:54.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:09.000Z", 
+                "started_at": "2020-11-04T18:15:54.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:10.000Z", 
+                "started_at": "2020-11-04T18:16:09.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:20.000Z", 
+                "started_at": "2020-11-04T18:16:10.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:20.000Z", 
+                "started_at": "2020-11-04T18:16:20.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:25:03.000Z", 
+                "started_at": "2020-11-04T18:16:20.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:25:07.000Z", 
+                "started_at": "2020-11-04T18:25:03.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:25:07.000Z", 
+                "started_at": "2020-11-04T18:25:07.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:31Z", 
+        "id": 1354418420, 
+        "conclusion": "success"
+    }, 
+    {
+        "status": "completed", 
+        "check_run_url": "https://api.github.com/repos/elisemorysc/hunter/check-runs/1354418402", 
+        "name": "glslang vs-16-2019-win64-cxx17 windows-2019", 
+        "run_id": 346070430, 
+        "url": "https://api.github.com/repos/elisemorysc/hunter/actions/jobs/1354418402", 
+        "html_url": "https://github.com/elisemorysc/hunter/runs/1354418402", 
+        "completed_at": "2020-11-04T18:21:34Z", 
+        "run_url": "https://api.github.com/repos/elisemorysc/hunter/actions/runs/346070430", 
+        "node_id": "MDg6Q2hlY2tSdW4xMzU0NDE4NDAy", 
+        "steps": [
+            {
+                "status": "completed", 
+                "name": "Set up job", 
+                "number": 1, 
+                "completed_at": "2020-11-04T18:15:43.000Z", 
+                "started_at": "2020-11-04T18:15:39.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Git checkout with submodules", 
+                "number": 2, 
+                "completed_at": "2020-11-04T18:16:01.000Z", 
+                "started_at": "2020-11-04T18:15:43.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python", 
+                "number": 3, 
+                "completed_at": "2020-11-04T18:16:01.000Z", 
+                "started_at": "2020-11-04T18:16:01.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Unix)", 
+                "number": 4, 
+                "completed_at": "2020-11-04T18:16:01.000Z", 
+                "started_at": "2020-11-04T18:16:01.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Set up Python environment variable (Windows)", 
+                "number": 5, 
+                "completed_at": "2020-11-04T18:16:14.000Z", 
+                "started_at": "2020-11-04T18:16:01.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Extract branch name", 
+                "number": 6, 
+                "completed_at": "2020-11-04T18:16:15.000Z", 
+                "started_at": "2020-11-04T18:16:14.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Upgrade pip", 
+                "number": 7, 
+                "completed_at": "2020-11-04T18:16:22.000Z", 
+                "started_at": "2020-11-04T18:16:15.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Unix", 
+                "number": 8, 
+                "completed_at": "2020-11-04T18:16:22.000Z", 
+                "started_at": "2020-11-04T18:16:22.000Z", 
+                "conclusion": "skipped"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Build on Windows", 
+                "number": 9, 
+                "completed_at": "2020-11-04T18:21:31.000Z", 
+                "started_at": "2020-11-04T18:16:22.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Post Git checkout with submodules", 
+                "number": 18, 
+                "completed_at": "2020-11-04T18:21:34.000Z", 
+                "started_at": "2020-11-04T18:21:31.000Z", 
+                "conclusion": "success"
+            }, 
+            {
+                "status": "completed", 
+                "name": "Complete job", 
+                "number": 19, 
+                "completed_at": "2020-11-04T18:21:34.000Z", 
+                "started_at": "2020-11-04T18:21:34.000Z", 
+                "conclusion": "success"
+            }
+        ], 
+        "head_sha": "8d5022bc19fe71d06bafa746ab830fa72253dc87", 
+        "started_at": "2020-11-04T18:15:39Z", 
+        "id": 1354418402, 
+        "conclusion": "success"
+    }
+]
