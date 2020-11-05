@@ -28,7 +28,7 @@ hunter_add_version(
     URL
     "https://github.com/cpp-pm/astc-encoder/archive/1.3-a47b80f-p0.tar.gz"
     SHA1
-    429821b9eb06c7a771974e087a3ce07bc6acb16a
+    021589adf53859cf374c0b0b24ce1eb2556288e3
 )
 
 if(ANDROID OR IOS)
