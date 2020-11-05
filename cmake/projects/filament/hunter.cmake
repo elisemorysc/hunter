@@ -15,7 +15,7 @@ hunter_add_version(
     VERSION
     1.9.7
     URL
-    "https://github.com/elisemorysc/filament/archive/hunter-v1.9.5.tar.gz"
+    "https://github.com/elisemorysc/filament/archive/hunter-v1.9.7.tar.gz"
     SHA1
     bc1835b7aafa1548b6b5ebf8d22879d2bfef3e85
 )
