@@ -26,7 +26,7 @@ hunter_add_version(
     VERSION
     1.3-a47b80f-p0
     URL
-    "https://github.com/cpp-pm/astc-encoder/archive/v1.3-a47b80f-p0.tar.gz"
+    "https://github.com/cpp-pm/astc-encoder/archive/1.3-a47b80f-p0.tar.gz"
     SHA1
     7fa591f7ded2047886674c6ecbd4dcb8de9d7ad4
 )
