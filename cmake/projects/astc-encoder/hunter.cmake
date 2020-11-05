@@ -20,6 +20,17 @@ hunter_add_version(
     027d46d8c190cbfc3c7ab0b78a7773e534f9deec
 )
 
+hunter_add_version(
+    PACKAGE_NAME
+    astc-encoder
+    VERSION
+    1.3-a47b80f-p0
+    URL
+    "https://github.com/cpp-pm/astc-encoder/archive/v1.3-a47b80f-p0.tar.gz"
+    SHA1
+    6a181bffbacec7a6c2ee99a0c9bdb9da3de09c95
+)
+
 if(ANDROID OR IOS)
   hunter_cmake_args(
     astc-encoder
