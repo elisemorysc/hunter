@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     filament
     VERSION
-    1.9.5
+    1.9.7
     URL
-    "https://github.com/elisemorysc/filament/archive/hunter-v1.9.5.zip"
+    "https://github.com/elisemorysc/filament/archive/hunter-v1.9.7.tar.gz"
     SHA1
-    2e62b1fd7a2ec65804c9c86f71a3bcbae2718b12
+    bc1835b7aafa1548b6b5ebf8d22879d2bfef3e85
 )
 
 hunter_cmake_args(
@@ -25,6 +25,7 @@ hunter_cmake_args(
     CMAKE_ARGS
     FILAMENT_ENABLE_JAVA=OFF
     FILAMENT_SUPPORTS_VULKAN=OFF
+    USE_STATIC_LIBCXX=OFF
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
