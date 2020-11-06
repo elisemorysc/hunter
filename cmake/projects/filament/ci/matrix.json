@@ -1,3 +1,3 @@
 [
-    { "example": "filament", "toolchain": "clang-libcxx17-fpic",                                     "os": "ubuntu-16.04", "python": "3.8", "script": "build.sh"  }
+    { "example": "filament", "toolchain": "clang-libcxx17-fpic",                                     "os": "ubuntu-20.04", "python": "3.8", "script": "build.sh"  }
 ]
