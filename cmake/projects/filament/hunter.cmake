@@ -26,6 +26,7 @@ hunter_cmake_args(
     FILAMENT_ENABLE_JAVA=OFF
     FILAMENT_SUPPORTS_VULKAN=OFF
     USE_STATIC_LIBCXX=OFF
+    USE_STATIC_CRT=OFF
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
