@@ -47,3 +47,5 @@ hunter_cmake_args(
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
 hunter_cacheable(civetweb)
 hunter_download(PACKAGE_NAME civetweb)
+
+#test
