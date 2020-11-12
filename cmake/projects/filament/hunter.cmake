@@ -17,7 +17,7 @@ hunter_add_version(
     URL
     "https://github.com/elisemorysc/filament/archive/hunter-v1.9.8.tar.gz"
     SHA1
-    3cbfcc2473d6ee14ec8078c2f94d9d8a6829f2bd
+    9a085c401017598e669b77e55bd35791dc088654
 )
 
 hunter_cmake_args(
