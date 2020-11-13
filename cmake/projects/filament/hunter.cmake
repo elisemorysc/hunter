@@ -14,10 +14,10 @@ hunter_add_version(
     filament
     VERSION
     1.9.8
-    URL
-    "https://github.com/elisemorysc/filament/archive/hunter-v1.9.8.tar.gz"
-    SHA1
-    08db8045ceec0fe11727cb2ae98b5a0b2204a7be
+    URL 
+    "https://github.com/cpp-pm/filament/archive/v1.9.8-p0.tar.gz"
+    SHA1 
+    7ef097692ea5cd68ba34dc48c73fff96b4f98b54
 )
 
 hunter_cmake_args(
