@@ -14,9 +14,9 @@ hunter_add_version(
     filament
     VERSION
     1.9.8
-    URL 
+    URL
     "https://github.com/cpp-pm/filament/archive/v1.9.8-p0.tar.gz"
-    SHA1 
+    SHA1
     7ef097692ea5cd68ba34dc48c73fff96b4f98b54
 )
 
@@ -28,7 +28,6 @@ hunter_cmake_args(
     FILAMENT_BUILD_FILAMAT=OFF
     FILAMENT_SKIP_SAMPLES=ON
     FILAMENT_ENABLE_MATDBG=OFF
-    FILAMENT_SUPPORTS_METAL=OFF
     USE_STATIC_LIBCXX=OFF
     USE_STATIC_CRT=OFF
 )
@@ -36,4 +35,3 @@ hunter_cmake_args(
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
 hunter_cacheable(filament)
 hunter_download(PACKAGE_NAME filament)
-
