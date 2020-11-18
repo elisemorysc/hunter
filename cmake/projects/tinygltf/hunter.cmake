@@ -17,7 +17,7 @@ hunter_add_version(
     URL
     "https://github.com/elisemorysc/tinygltf/archive/v2.5.0-p0.tar.gz"
     SHA1
-    "8324c6c5f02a0b26a5e8f2e05b8d5b34d4da93d5"
+    "3632f866a19909a328e62395ee50c83a17aca2b6"
 )
 
 hunter_cmake_args(
