@@ -8,7 +8,7 @@
 .. _pkg.tinygltf:
 
 tinygltf
-=======
+========
 
 -  `Official <https://github.com/syoyo/tinygltf>`__
 -  `Hunterized <https://github.com/cpp-pm/tinygltf>`__
