@@ -15,9 +15,9 @@ hunter_add_version(
     VERSION
     "2.5.0-p0"
     URL
-    "https://github.com/cpp-pm/tinygltf/archive/v2.5.0-p0.zip"
+    "https://github.com/cpp-pm/tinygltf/archive/v2.5.0-p0.tar.gz"
     SHA1
-    "8facac6d406409cbcb03f3cabbe301b4f11f8174"
+    "dd8e139e1f2f03dcfe9eab2aedff25fa5c6297c6"
 )
 
 hunter_cmake_args(
