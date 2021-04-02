@@ -20,6 +20,17 @@ hunter_add_version(
     7ef097692ea5cd68ba34dc48c73fff96b4f98b54
 )
 
+hunter_add_version(
+    PACKAGE_NAME
+    filament
+    VERSION
+    1.9.18-p0
+    URL
+    "https://github.com/cpp-pm/filament/archive/v1.9.18-p0.tar.gz"
+    SHA1
+    1406e936ebf9857fd305bed0e83d8f53e1952a35
+)
+
 hunter_cmake_args(
     filament
     CMAKE_ARGS
