@@ -14,7 +14,7 @@ hunter_add_version(
     VERSION
     "0.0.0-e1e7b0a-p0"
     URL
-    "wget https://github.com/cpp-pm/linux-syscall-support/archive/refs/tags/v0.0.0-e1e7b0a-p0.tar.gz"
+    "https://github.com/cpp-pm/linux-syscall-support/archive/refs/tags/v0.0.0-e1e7b0a-p0.tar.gz"
     SHA1
     961776584f525bcc0434d0200e25927b4381cb21
 )
