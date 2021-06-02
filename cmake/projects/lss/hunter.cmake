@@ -14,9 +14,9 @@ hunter_add_version(
     VERSION
     "0.0.0-e1e7b0a-p0"
     URL
-    "https://github.com/elisemorysc/linux-syscall-support/archive/refs/tags/e1e7b0a.tar.gz"
+    "wget https://github.com/cpp-pm/linux-syscall-support/archive/refs/tags/v0.0.0-e1e7b0a-p0.tar.gz"
     SHA1
-    1452aeaefcb30e326685ed4a6c4d89b1a580ec0f
+    961776584f525bcc0434d0200e25927b4381cb21
 )
 
 hunter_cacheable(lss)
