@@ -16,7 +16,7 @@ hunter_add_version(
     URL
     "https://github.com/elisemorysc/linux-syscall-support/archive/refs/tags/e1e7b0a.tar.gz"
     SHA1
-    e01747d397188c4f16c201d9f73b76f7cc654a1b
+    1452aeaefcb30e326685ed4a6c4d89b1a580ec0f
 )
 
 hunter_cacheable(lss)
